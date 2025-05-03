@@ -54,8 +54,7 @@ Annotate significant differences on boxplots.
 Make sure you have the following R packages installed:
 
 r
-Copy
-Edit
+
 install.packages(c("ggplot2", "pheatmap", "dplyr", "tidyr", "ggpubr", "FSA", "rstatix"))
 if (!requireNamespace("BiocManager", quietly = TRUE))
     install.packages("BiocManager")
@@ -159,7 +158,7 @@ Place your input files (Counts data_for use.csv, Metadata.csv, GeneSymbols.csv) 
 
 Open the R script(s).
 
-Run the code.
+Run the code
 
 Find outputs in the better_annotations_and_stats/ directory.
 
