@@ -53,8 +53,6 @@ Annotate significant differences on boxplots.
 📦 Required R Packages
 Make sure you have the following R packages installed:
 
-r
-
 install.packages(c("ggplot2", "pheatmap", "dplyr", "tidyr", "ggpubr", "FSA", "rstatix"))
 if (!requireNamespace("BiocManager", quietly = TRUE))
     install.packages("BiocManager")
@@ -145,7 +143,6 @@ Annotate significant differences on boxplots.
 📦 Required R Packages
 
 Make sure you have the following R packages installed:
-
 
 install.packages(c("ggplot2", "pheatmap", "dplyr", "tidyr", "ggpubr", "FSA", "rstatix"))
 
